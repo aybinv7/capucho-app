@@ -1,2 +1,8 @@
+allowBuilds:
+  '@firebase/util': true
+  '@swc/core': true
+  esbuild: true
+  protobufjs: true
+  vue-demi: true
 overrides:
   capucho-cli: link:../../../../AppData/Local/pnpm/global/5/node_modules/capucho-cli
